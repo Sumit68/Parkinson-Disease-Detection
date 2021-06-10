@@ -12,6 +12,7 @@ The best results were obtained using RandomForestClassifier-
 | Precision(macro avg) | 0.94     |
 | Recall(macro avg) | 0.94     |
 ## Working
-
+![](working1.png)
+![](working2.png)
 ## Dataset
 https://www.kaggle.com/debasisdotcom/parkinson-disease-detection
